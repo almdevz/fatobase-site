@@ -68,3 +68,5 @@ footer{border-top:1px solid var(--line);padding:28px 0;color:var(--muted)}
   .legal-hero{align-items:flex-start}
   .legal-logo{width:68px;height:68px}
 }
+.lang-switch{display:inline-flex;align-items:center;justify-content:center;padding:7px 11px;border:1px solid var(--gold);border-radius:999px;color:var(--gold)!important;font-weight:800;letter-spacing:.04em;line-height:1;text-decoration:none;white-space:nowrap}
+.lang-switch:hover{background:var(--gold);color:#111!important}
